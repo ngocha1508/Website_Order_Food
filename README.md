@@ -10,10 +10,10 @@
 •	Thiết kế hệ thống có khả năng mở rộng
 
 # Công nghệ sử dụng:
-•	Front-end: Sử dụng ReactJS là một thư viện JavaScript để xây dựng giao diện người dùng
-•	Back-end: Sử dụng nền tảng NodeJS để xây dựng server và API
-•	Database: Sử dụng MongoDB để phát triển cơ sở dữ liệu
-•	Công cụ phát triển mã nguồn: Visual Studio Code
+# •	Front-end: Sử dụng ReactJS là một thư viện JavaScript để xây dựng giao diện người dùng
+# •	Back-end: Sử dụng nền tảng NodeJS để xây dựng server và API
+# •	Database: Sử dụng MongoDB để phát triển cơ sở dữ liệu
+# •	Công cụ phát triển mã nguồn: Visual Studio Code
 
 # Chức năng người dùng:
 •	Đăng ký
